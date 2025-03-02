@@ -365,7 +365,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: illustrator 2s ease;
 }
 .newsReporting {
-  	width: 80%;
+  	width: 85%;
    text-align: right;
    font-weight: bold;
    color: white;
@@ -418,6 +418,7 @@ ul#nav li.current a { color: #F06000; }
    -moz-animation: jquery 2s ease;
    -webkit-animation: jquery 2s ease;
 }
+
 .crm {
    width: 80%;
    text-align: right;
@@ -433,6 +434,15 @@ ul#nav li.current a { color: #F06000; }
    font-weight: bold;
    color: white;
    background-color:rgb(29, 136, 236);
+   -moz-animation: jquery 2s ease;
+   -webkit-animation: jquery 2s ease;
+}
+.computing {
+   width: 90%;
+   text-align: right;
+   font-weight: bold;
+   color: white;
+   background-color: #5a0002; /* Dark Maroon */
    -moz-animation: jquery 2s ease;
    -webkit-animation: jquery 2s ease;
 }
