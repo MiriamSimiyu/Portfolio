@@ -382,8 +382,8 @@ ul#nav li.current a { color: #F06000; }
    -moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
-.advert {
-  	width: 60%;
+.office365 {
+  	width: 90%;
    text-align: right;
    font-weight: bold;
    color: white;
@@ -391,8 +391,8 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.customerS {
-  	width: 70%;
+.googleWS {
+  	width: 90%;
    text-align: right;
    font-weight: bold;
    color: white;
@@ -400,8 +400,8 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
-.digitalM {
-   width: 65%;
+.jira {
+   width: 80%;
    text-align: right;
    font-weight: bold;
    color: white;
@@ -409,8 +409,8 @@ ul#nav li.current a { color: #F06000; }
    -moz-animation: jquery 2s ease;
    -webkit-animation: jquery 2s ease;
 }
-.commercial {
-   width: 75%;
+.dataEntry {
+   width: 90%;
    text-align: right;
    font-weight: bold;
    color: white;
@@ -418,8 +418,8 @@ ul#nav li.current a { color: #F06000; }
    -moz-animation: jquery 2s ease;
    -webkit-animation: jquery 2s ease;
 }
-.negotiations {
-   width: 70%;
+.crm {
+   width: 80%;
    text-align: right;
    font-weight: bold;
    color: white;
@@ -427,8 +427,8 @@ ul#nav li.current a { color: #F06000; }
    -moz-animation: jquery 2s ease;
    -webkit-animation: jquery 2s ease;
 }
-.computing {
-   width: 90%;
+.erp {
+   width: 75%;
    text-align: right;
    font-weight: bold;
    color: white;
